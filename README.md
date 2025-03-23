@@ -113,9 +113,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to all contributors who have helped shape this project
-- Special thanks to the open-source community
-- Google Cloud Platform for providing the AI capabilities 
